@@ -1,5 +1,1 @@
-
 print("WELCOME")
-
-print("WELCOME")
-
